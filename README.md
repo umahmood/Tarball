@@ -34,7 +34,7 @@ Clone the repo:
 ###### Create tar file:
 
 1. Select desired files
-2. Press F10
+2. Press Shift + x
 3. Enter a file name (with extension *.tar or .tar.gz or .tar.bz2 or .tar.lzma) 
 
 Note: when prompted for a filename the extension is important. It determines the 
@@ -44,7 +44,7 @@ file with gzip compression.
 ###### Extract tar file:
 
 1. Select tar file
-2. Press F10
+2. Press Shift + x
 
 tar file will be extracted under the current directory.
 
