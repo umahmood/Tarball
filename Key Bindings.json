@@ -1,0 +1,3 @@
+[
+	{ "keys": ["F10"], "command": "tarball" }
+]
